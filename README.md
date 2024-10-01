@@ -1,2 +1,2 @@
 # gait-detection-parkinson
-*UPDATING* repository about my research work up to date
+*To be updated* repository about my research work up to date
